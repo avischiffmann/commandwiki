@@ -1,3 +1,3 @@
 @echo off
-python3 c:\Users\avisc\Documents\commandwiki\search.py %1
+python3 c:\Users\USER\Documents\commandwiki\search.py %1
 pause
