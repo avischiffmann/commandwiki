@@ -4,6 +4,7 @@ import wikipedia
 import argparse
 
 def wiki(txt):
+    txt='wiki "'+txt+'"'
     txt = wikipedia.page(txt)
     print(txt.summary)
 
